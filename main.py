@@ -100,7 +100,7 @@ def generate_attack_report(df):
     
 
 
-API_KEY = os.getenv("API_KEY")
+API_KEY = st.secrets.get("API_KEY", None)
 def lookup_input(input_value):
     """
     Lookup an IP Address or Subnet using the AbuseIPDB API.
