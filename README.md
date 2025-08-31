@@ -43,7 +43,7 @@ The **NetShield AI** is designed for individuals and organizations aiming to mai
 
 ## **How to Use**
 
-1. Access the live project via the provided link or run the tool locally using the GitHub repository.
+1. Access the live project via https://netshield-ai.streamlit.app/ or run the tool locally using the GitHub repository.
 2. Use the **Threat Lookup** feature to check IP addresses, domain names, or subnets.
 3. Explore the **Network Analytics** page for detailed traffic visualizations and insights.
 4. Provide feedback using the feedback form to help us improve the tool.
